@@ -38,7 +38,6 @@ pip install -r requirements.txt
 ## Screenshots
 
 ![Chart Interface](https://github.com/knownbymanoj/SpeakPDFly/blob/main/github_1.png)
-
 ![Chart Interface](https://github.com/knownbymanoj/SpeakPDFly/blob/main/github_2.png)
 
 
