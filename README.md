@@ -43,6 +43,6 @@ pip install -r requirements.txt
 
 ## Acknowledgements
 
- - [Refernce Github repo](https://github.com/alejandro-ao/ask-multiple-pdfs/tree/main)
+ - [Reference Github repo](https://github.com/alejandro-ao/ask-multiple-pdfs/tree/main)
 
 
